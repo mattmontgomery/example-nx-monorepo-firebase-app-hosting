@@ -6,3 +6,5 @@ runConfig:
 env:
   - variable: NX_DEFAULT_PROJECT
     value: "@monorepo/a"
+    availability:
+      - BUILD
