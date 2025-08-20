@@ -5,5 +5,5 @@ runConfig:
 
 env:
   - variable:
-      name: NX_DEFAULT_PROJECT
-      value: @monorepo/a
+    name: NX_DEFAULT_PROJECT
+    value: @monorepo/a
