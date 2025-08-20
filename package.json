@@ -1,0 +1,13 @@
+{
+    "name": "example-nx-monorepo-firebase-app-hosting",
+    "private": true,
+    "version": "0.0.1",
+    "dependencies": {},
+    "devDependencies": {
+        "nx": "^21.4.0"
+    },
+    "engines": {
+        "node": ">=22"
+    },
+    "packageManager": "pnpm@10.15.0"
+}
