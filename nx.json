@@ -1,4 +1,5 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "nxCloudId": "68a61814d8ceec1d694109af"
+  "nxCloudId": "68a61814d8ceec1d694109af",
+  "defaultProject": "@monorepo/a"
 }
